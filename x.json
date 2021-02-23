@@ -6,18 +6,20 @@
         "social": {
             "twitter_handle": "cardanolover",
             "telegram_handle": "harvestadapool"
-        },
+	          }
+       	     },
       
+	
+	
         "about": {
             "me": "",
             "server": "Our Digital Farm is focused on providing reliable, secure active and stable stake pools. Support decentralization and grow your ADA with us.",
             "company": "HarvestAda"
-        },
+       		 },
+	
+	
         "my-pool-ids": {
 		"0": "fbaf2f0064de0c03dda0057c70a4af31fd3f9d3add57a8f5590f73d4"
-						},
-  
-			}
-    
-	}
+		},
+}
     
