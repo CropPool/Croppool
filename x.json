@@ -1,31 +1,23 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://github.com/CropPool/x/blob/main/logo.png?raw=true",
-        "url_png_logo": "https://github.com/CropPool/x/blob/main/logo.png?raw=true",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/CropPool/x/main/logo.png",
+        "url_png_logo": "https://raw.githubusercontent.com/CropPool/x/main/logo.png",
         "location": "Poland, Warsaw",
         "social": {
             "twitter_handle": "cardanolover",
-            "telegram_handle": "harvestadapool",
+            "telegram_handle": "harvestadapool"
         },
-        "company": {
-            "name": "",
-            "addr": "",
-            "city": "",
-            "country": "",
-            "company_id": "",
-            "vat_id": ""
-        },
+      
         "about": {
             "me": "",
             "server": "Our Digital Farm is focused on providing reliable, secure active and stable stake pools. Support decentralization and grow your ADA with us.",
             "company": "HarvestAda"
         },
-        "rss": ""
-    },
-
-    "when-satured-then-recommend": {
-        "0": "",
-        "1": ""
-    },
+        "my-pool-ids": {
+		"0": "fbaf2f0064de0c03dda0057c70a4af31fd3f9d3add57a8f5590f73d4"
+						},
   
-}
+			}
+    
+	}
+    
