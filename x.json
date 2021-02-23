@@ -1,13 +1,32 @@
-"info": {
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/CropPool/x/main/logocrop.png",
-        "url_png_logo": "https://raw.githubusercontent.com/CropPool/x/main/logocrop.png",
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://github.com/CropPool/x/blob/main/logo.png?raw=true",
+        "url_png_logo": "https://github.com/CropPool/x/blob/main/logo.png?raw=true",
+        "location": "Poland, Warsaw",
         "social": {
-            "twitter_handle": "CardanoLover",
-            "telegram_handle": "",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": ""
-        }
+            "twitter_handle": "cardanolover",
+            "telegram_handle": "harvestadapool",
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "Our Digital Farm is focused on providing reliable, secure active and stable stake pools. Support decentralization and grow your ADA with us.",
+            "company": "HarvestAda"
+        },
+        "rss": ""
+    },
+
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": ""
+    },
+  
 }
